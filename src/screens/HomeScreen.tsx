@@ -62,7 +62,7 @@ const HomeScreen = (props: any) => {
             marginRight: 6,
           }}
           onPress={() =>
-            Linking.openURL("https://github.com/sarthakpranesh/Covid19")
+            Linking.openURL("https://github.com/jobairshakib/covid19")
           }
         >
           <Github
